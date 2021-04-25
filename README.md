@@ -1,7 +1,7 @@
 # LINEPY-MOD
 
 ## INFORMATION
-just little modif in headers
+just little modif in headers and httpclient ( thrift )
 
 ## SUPPORTED APP
 - CHROMEOS ( TESTED )
